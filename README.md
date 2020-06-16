@@ -9,3 +9,7 @@ The Libraries i used are
   4. urllib
   5. pandas
   6. csv
+  
+  
+  predig.com is an electronics product website. (Data Available)
+  galco.com is an engineer and technician tools website. (Data Available)
